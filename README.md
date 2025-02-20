@@ -3,17 +3,13 @@
 
 
 **1.   CODE of 2004**
-https://code.earthengine.google.com/68e18219983ef74b387f5698b22de60a
-
+https://code.earthengine.google.com/7869b07a491017254efa34f13225aeeb
 
 **2.  CODE of 2014**
-https://code.earthengine.google.com/c2cc2b7c3c6f9831243ea9f9b7b4f68d
-
+https://code.earthengine.google.com/1ef5a11378eff773f412a3e9ef5d198c
 
 **3.CODE of 2024**
-https://code.earthengine.google.com/95793d54bf9be27d07d31130636ecde6
+https://code.earthengine.google.com/7edc91bf9859c20a05305d6136d9ea25
 
-**4.Mangrove map**
 
-https://code.earthengine.google.com/ef4e6e1c01d6973b66c4c38df96ae764
 
